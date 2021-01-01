@@ -1,0 +1,37 @@
+body {
+    font-size: 16px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#module-one {
+    font-size: 2rem;
+}
+
+h1 {
+    font-size: 1.875em;
+    font-family: 'Sansita One', cursive;
+}
+
+h2 {
+    font-size: 1em;
+}
+
+p {
+    font-size: 0.5em;
+}
+
+#module-two {
+    font-size: 1rem;
+}
+
+h3 {
+    font-size: 1.875em;
+}
+
+#module-three {
+    font-size: 0.5rem;
+}
+
+h4 {
+    font-size: 2.625em;
+}
